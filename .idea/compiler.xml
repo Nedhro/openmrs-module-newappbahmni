@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="newappbahmni-api" />
+        <module name="newappbahmni-omod" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="newappbahmni" target="1.5" />
+      <module name="newappbahmni-api" target="1.6" />
+      <module name="newappbahmni-omod" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
