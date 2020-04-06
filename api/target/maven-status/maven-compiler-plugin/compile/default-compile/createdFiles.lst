@@ -1,0 +1,6 @@
+org\openmrs\module\newappbahmni\api\NewappbahmniService.class
+org\openmrs\module\newappbahmni\api\impl\NewappbahmniServiceImpl.class
+org\openmrs\module\newappbahmni\Item.class
+org\openmrs\module\newappbahmni\api\dao\NewappbahmniDao.class
+org\openmrs\module\newappbahmni\NewappbahmniConfig.class
+org\openmrs\module\newappbahmni\NewappbahmniActivator.class

@@ -1,0 +1,2 @@
+org\openmrs\module\newappbahmni\extension\html\AdminList.class
+org\openmrs\module\newappbahmni\web\controller\NewappbahmniController.class
