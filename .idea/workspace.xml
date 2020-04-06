@@ -113,6 +113,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -157,14 +158,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="all files added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="318" y="12" key="CommitChangelistDialog2" timestamp="1586160292657">
+    <state x="318" y="12" key="CommitChangelistDialog2" timestamp="1586160383832">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="318" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586160292657" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1586160143594">
+    <state x="318" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586160383832" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1586160394368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586160143594" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586160394368" />
     <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586160369829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
