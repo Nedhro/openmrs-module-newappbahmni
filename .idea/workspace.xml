@@ -2,12 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="808831b8-8717-4870-a72a-58e1fe263823" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/newappbahmni/web/controller/MyAppController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omod/src/main/webapp/myinfo.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/maven-java-formatter-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/maven-java-formatter-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/newappbahmni-api-1.0.0-SNAPSHOT-tests.jar" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/newappbahmni-api-1.0.0-SNAPSHOT-tests.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/newappbahmni-api-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/newappbahmni-api-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/surefire-reports/TEST-org.openmrs.module.newappbahmni.api.NewappbahmniServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/surefire-reports/TEST-org.openmrs.module.newappbahmni.api.NewappbahmniServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/surefire-reports/TEST-org.openmrs.module.newappbahmni.api.dao.NewappbahmniDaoTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/surefire-reports/TEST-org.openmrs.module.newappbahmni.api.dao.NewappbahmniDaoTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/surefire-reports/org.openmrs.module.newappbahmni.api.NewappbahmniServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/surefire-reports/org.openmrs.module.newappbahmni.api.NewappbahmniServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/surefire-reports/org.openmrs.module.newappbahmni.api.dao.NewappbahmniDaoTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/surefire-reports/org.openmrs.module.newappbahmni.api.dao.NewappbahmniDaoTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/newappbahmni/extension/html/AdminList.java" beforeDir="false" afterPath="$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/newappbahmni/extension/html/AdminList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/newappbahmni/web/controller/NewappbahmniController.java" beforeDir="false" afterPath="$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/newappbahmni/web/controller/NewappbahmniController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/target/classes/org/openmrs/module/newappbahmni/extension/html/AdminList.class" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/classes/org/openmrs/module/newappbahmni/extension/html/AdminList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/target/classes/org/openmrs/module/newappbahmni/web/controller/NewappbahmniController.class" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/classes/org/openmrs/module/newappbahmni/web/controller/NewappbahmniController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/target/maven-java-formatter-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/maven-java-formatter-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/target/newappbahmni-1.0.0-SNAPSHOT-tests.jar" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/newappbahmni-1.0.0-SNAPSHOT-tests.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/target/newappbahmni-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/newappbahmni-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/target/newappbahmni-1.0.0-SNAPSHOT.omod" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/newappbahmni-1.0.0-SNAPSHOT.omod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/target/newappbahmni-1.0.0-SNAPSHOT/lib/newappbahmni-api-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/newappbahmni-1.0.0-SNAPSHOT/lib/newappbahmni-api-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/target/newappbahmni-1.0.0-SNAPSHOT/org/openmrs/module/newappbahmni/extension/html/AdminList.class" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/newappbahmni-1.0.0-SNAPSHOT/org/openmrs/module/newappbahmni/extension/html/AdminList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/target/newappbahmni-1.0.0-SNAPSHOT/org/openmrs/module/newappbahmni/web/controller/NewappbahmniController.class" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/newappbahmni-1.0.0-SNAPSHOT/org/openmrs/module/newappbahmni/web/controller/NewappbahmniController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/target/surefire-reports/TEST-org.openmrs.module.newappbahmni.AdminListExtensionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/surefire-reports/TEST-org.openmrs.module.newappbahmni.AdminListExtensionTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/target/surefire-reports/org.openmrs.module.newappbahmni.AdminListExtensionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/surefire-reports/org.openmrs.module.newappbahmni.AdminListExtensionTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -37,6 +70,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -65,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586159463501</updated>
-      <workItem from="1586159470518" duration="1141000" />
+      <workItem from="1586159470518" duration="4410000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1586160133296</created>
@@ -88,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586160455622</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="licence notice file added">
+      <created>1586160776814</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586160776814</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,17 +144,21 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="all files added" />
     <MESSAGE value="gitignore file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore file added" />
+    <MESSAGE value="licence notice file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="licence notice file added" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="318" y="12" key="CommitChangelistDialog2" timestamp="1586160454978">
+    <state x="318" y="12" key="CommitChangelistDialog2" timestamp="1586160776105">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="318" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586160454978" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1586160482633">
+    <state x="318" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586160776105" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1586160781551">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586160482633" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586160781551" />
     <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586160499603">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
